@@ -1,5 +1,7 @@
 # TabMaster
 
+![Poster for the 1982 move "The Beastmaster", with humourous modifications. The original poster has a hercules-style hero raising a sword above his head. His beast companious — a tiger, a large bird of prey, and 2 marmots or something — surround him. A scantily-clad damsel in distress crouches at his side. There are two modifications. First, browser tabs for GitHub, Trello, and Medstro are pasted over the animals. Second, there is a laptop placed in the lap of the woman.](https://raw.github.com/jjb/TabMaster/master/poster.jpg "The TabMaster")
+
 
 ## Problems
 
